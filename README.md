@@ -1,162 +1,90 @@
-# Iker Yáñez - Portfolio
+# Iker Yáñez Calderón
 
-> Portafolio profesional de un Data Scientist & ML Engineer apasionado por transformar datos en decisiones inteligentes.
+> **Data Scientist & Machine Learning Engineer**
+> Transformando datos en decisiones inteligentes
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.1-black?style=flat&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.2-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ikeryanez.com-black?style=flat)](https://portfolio.ikeryc.com)
+[![Email](https://img.shields.io/badge/Email-ikeryanez%40gmail.com-red?style=flat&logo=gmail)](mailto:ikeryanez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ikeryanez-blue?style=flat&logo=github)](https://github.com/ikeryanez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ikeryc-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ikeryc)
 
-## 🎯 Descripción
+## Sobre Mí
 
-Portfolio personal profesional que destaca la experiencia, habilidades y proyectos como Data Scientist y Machine Learning Engineer. Diseñado con un enfoque moderno, responsivo y visualmente atractivo para mostrar competencias en data science, machine learning e ingeniería de software.
+Soy un Data Scientist y Machine Learning Engineer con pasión por resolver problemas complejos utilizando datos. Me especializo en el desarrollo de modelos predictivos, análisis exploratorio de datos e implementación de soluciones de ML en producción. Siempre busco aprender nuevas tecnologías y metodologías para mejorar mis habilidades y generar valor en cada proyecto.
 
-## ✨ Características
+## 💼 Experiencia Profesional
 
-- **Diseño Responsivo**: Optimizado para dispositivos móviles, tablets y desktops
-- **Animaciones Fluidas**: Transiciones elegantes con Framer Motion
-- **Modo Oscuro/Claro**: Tema adaptable (si está implementado)
-- **Secciones Completas**:
-  - Navbar interactivo con navegación suave
-  - Hero section con presentación personal
-  - Sobre mí con descripción profesional
-  - Habilidades técnicas organizadas por categoría
-  - Proyectos destacados con enlaces a GitHub
-  - Experiencia laboral y académica
-  - Formulario de contacto funcional
-  - Footer con redes sociales
-- **SEO Optimizado**: Metadatos y estructura semántica
-- **Rendimiento**: Optimizado con Next.js 16+
+### **Consultor Data Science** | Management Solutions
+*Julio 2024 - Presente*
 
-## 🛠️ Tecnologías
+Consultoría en proyectos de Data Science para clientes del sector financiero. Desarrollo de modelos predictivos y soluciones analíticas avanzadas que generan impacto en la toma de decisiones estratégicas.
 
-### Frontend
-- **Next.js 16.1**: Framework React con SSR y SSG
-- **React 19.2**: Biblioteca UI
-- **TypeScript 5.9**: Tipado estático
-- **Tailwind CSS 4.2**: Estilos utilitarios
-- **Framer Motion 12.34**: Animaciones
-- **Lucide React**: Iconografía
+### **Data Scientist** | BBVA
+*Noviembre 2023 - Mayo 2024*
 
-### DevTools
-- **PostCSS 8.5**: Procesamiento de CSS
-- **ESLint**: Linting de código
+Desarrollo de modelos de Machine Learning y análisis de datos a gran escala. Creación de pipelines de datos y generación de insights para el negocio.
 
-## 🚀 Inicio Rápido
+## 🎓 Educación
 
-### Requisitos Previos
-- Node.js 18+
-- npm o yarn
+- **Máster en Consultoría de Negocio** | Universidad Pontificia de Comillas ICAI-ICADE
+  - Septiembre 2024 - Junio 2026 | Especialización en consultoría estratégica y transformación digital
 
-### Instalación
+- **Máster en Ciencia de Datos & IA** | Universidad de Navarra
+  - Septiembre 2023 - Junio 2024 | Especialización en Machine Learning, Deep Learning y estadística avanzada
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/ikeryc/portfolio.git
-cd portfolio
+- **Grado en Ingeniería Informática + Transformación Digital de la Empresa** | Universidad de Deusto
+  - Septiembre 2019 - Junio 2023 | Formación sólida en programación y transformación digital
 
-# Instalar dependencias
-npm install
-```
+## 🛠️ Habilidades Técnicas
 
-### Desarrollo
+**Lenguajes de Programación**
+- Python, SQL
 
-```bash
-# Ejecutar servidor de desarrollo
-npm run dev
-```
+**Machine Learning & Deep Learning**
+- TensorFlow, PyTorch, Scikit-learn
 
-Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+**Data & Análisis**
+- Pandas, NumPy, Jupyter, Power BI, PySpark
 
-### Build para Producción
+**Cloud & DevOps**
+- Docker, Git, AWS
 
-```bash
-# Compilar la aplicación
-npm run build
+## 📊 Proyectos Destacados
 
-# Iniciar servidor de producción
-npm start
-```
+### Predicción de Churn de Clientes
+Modelo de clasificación para predecir la fuga de clientes utilizando Random Forest y XGBoost. Incluye análisis exploratorio exhaustivo, feature engineering avanzado y despliegue con FastAPI.
 
-### Linting
+**Stack**: Python | Scikit-learn | XGBoost | FastAPI
 
-```bash
-# Ejecutar ESLint
-npm run lint
-```
+### Análisis de Sentimiento con NLP
+Pipeline de NLP completo para análisis de sentimiento en reseñas de productos. Utiliza transformers pre-entrenados y fine-tuning con datos personalizados.
 
-## 📁 Estructura del Proyecto
+**Stack**: Python | Hugging Face | PyTorch | NLP
 
-```
-portfolio/
-├── app/                    # App Router de Next.js
-│   ├── page.tsx           # Página principal
-│   ├── layout.tsx         # Layout global
-│   └── globals.css        # Estilos globales
-├── components/            # Componentes React
-│   ├── Navbar.tsx
-│   ├── Hero.tsx
-│   ├── About.tsx
-│   ├── Skills.tsx
-│   ├── Projects.tsx
-│   ├── Experience.tsx
-│   ├── Contact.tsx
-│   └── Footer.tsx
-├── data/                  # Datos estáticos
-│   └── portfolio-data.ts  # Información personal y proyectos
-├── public/                # Activos estáticos
-├── next.config.ts         # Configuración de Next.js
-├── tailwind.config.ts     # Configuración de Tailwind
-└── tsconfig.json          # Configuración de TypeScript
-```
+### Dashboard de Visualización de Datos
+Dashboard interactivo para exploración y visualización de datasets complejos. Construido con Streamlit y Plotly para análisis en tiempo real.
 
-## 📋 Contenido del Portfolio
+**Stack**: Python | Streamlit | Plotly | Pandas
 
-### Habilidades
-- **Lenguajes**: Python, SQL
-- **ML/Deep Learning**: TensorFlow, PyTorch, Scikit-learn
-- **Data & Análisis**: Pandas, NumPy, Jupyter, Power BI, PySpark
-- **Cloud & DevOps**: Docker, Git, AWS
+*Para ver más proyectos, visita mi [GitHub](https://github.com/ikeryanez)*
 
-### Proyectos Destacados
-- Predicción de Churn de Clientes (Random Forest, XGBoost, FastAPI)
-- Análisis de Sentimiento con NLP (Hugging Face, PyTorch)
-- Dashboard de Visualización de Datos (Streamlit, Plotly)
+## 🎯 Intereses
 
-### Experiencia
-- **Consultor Data Science** - Management Solutions (Julio 2024 - Presente)
-- **Data Scientist** - BBVA (Noviembre 2023 - Mayo 2024)
-- **Máster en Consultoría de Negocio** - Universidad Pontificia de Comillas (2024-2026)
-- **Máster en Ciencia de Datos & IA** - Universidad de Navarra (2023-2024)
-- **Grado en Ingeniería Informática** - Universidad de Deusto (2019-2023)
+- Machine Learning e Inteligencia Artificial
+- Estadística aplicada y análisis exploratorio de datos
+- Implementación de modelos en producción
+- Optimización de procesos basados en datos
+- Consultoría estratégica y transformación digital
 
-## 🎨 Personalización
+## 📫 Contacto
 
-Para personalizar el contenido del portfolio, edita:
-
-- `data/portfolio-data.ts`: Información personal, habilidades, proyectos y experiencia
-- `components/`: Modifica los componentes según necesites
-- `app/globals.css`: Personaliza los estilos globales
-
-## 📧 Contacto
+¿Te gustaría colaborar o tienes alguna pregunta?
 
 - **Email**: [ikeryanez@gmail.com](mailto:ikeryanez@gmail.com)
 - **GitHub**: [github.com/ikeryanez](https://github.com/ikeryanez)
 - **LinkedIn**: [linkedin.com/in/ikeryc](https://linkedin.com/in/ikeryc)
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia ISC.
-
-## 🙏 Agradecimientos
-
-- [Next.js](https://nextjs.org/) - Framework React
-- [Tailwind CSS](https://tailwindcss.com/) - Estilos CSS
-- [Framer Motion](https://www.framer.com/motion/) - Animaciones
-- [Lucide Icons](https://lucide.dev/) - Iconografía
+- **Portafolio**: [Mi Portafolio Web](https://portfolio.ikeryc.com)
 
 ---
 
-**Última actualización**: Marzo 2026
-
-Hecho con ❤️ por Iker Yáñez
+Siempre abierto a nuevas oportunidades, colaboraciones y conversaciones sobre Data Science, ML e innovación.
