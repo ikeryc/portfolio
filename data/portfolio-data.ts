@@ -4,7 +4,7 @@ export const personalInfo = {
   tagline:
     "Transformando datos en decisiones inteligentes. Apasionado por el Machine Learning, la estadística y la creación de soluciones basadas en datos.",
   email: "ikeryanez@gmail.com",
-  github: "https://github.com/ikeryanez",
+  github: "https://github.com/ikeryc",
   linkedin: "https://linkedin.com/in/ikeryc",
   aboutText:
     "Soy un Data Scientist y Machine Learning Engineer con pasión por resolver problemas complejos utilizando datos. Me especializo en el desarrollo de modelos predictivos, análisis exploratorio de datos y la implementación de soluciones de ML en producción. Siempre busco aprender nuevas tecnologías y metodologías para mejorar mis habilidades.",
@@ -35,7 +35,7 @@ export const projects = [
     description:
       "Modelo de clasificación para predecir la fuga de clientes utilizando Random Forest y XGBoost. Incluye análisis exploratorio, feature engineering y despliegue con FastAPI.",
     tags: ["Python", "Scikit-learn", "XGBoost", "FastAPI"],
-    github: "https://github.com/ikeryanez/churn-prediction",
+    github: "https://github.com/ikeryc/churn-prediction",
     demo: "",
     image: "",
   },
@@ -44,7 +44,7 @@ export const projects = [
     description:
       "Pipeline de NLP para análisis de sentimiento en reseñas de productos. Utiliza transformers pre-entrenados y fine-tuning con datos personalizados.",
     tags: ["Python", "Hugging Face", "PyTorch", "NLP"],
-    github: "https://github.com/ikeryanez/sentiment-analysis",
+    github: "https://github.com/ikeryc/sentiment-analysis",
     demo: "",
     image: "",
   },
@@ -53,7 +53,7 @@ export const projects = [
     description:
       "Dashboard interactivo para explorar y visualizar datasets complejos. Construido con Streamlit y Plotly para análisis en tiempo real.",
     tags: ["Python", "Streamlit", "Plotly", "Pandas"],
-    github: "https://github.com/ikeryanez/data-dashboard",
+    github: "https://github.com/ikeryc/data-dashboard",
     demo: "",
     image: "",
   },

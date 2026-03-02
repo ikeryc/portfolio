@@ -3,9 +3,9 @@
 > **Data Scientist & Machine Learning Engineer**
 > Transformando datos en decisiones inteligentes
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ikeryanez.com-black?style=flat)](https://portfolio.ikeryc.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ikeryc.com-black?style=flat)](https://portfolio.ikeryc.com)
 [![Email](https://img.shields.io/badge/Email-ikeryanez%40gmail.com-red?style=flat&logo=gmail)](mailto:ikeryanez@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ikeryanez-blue?style=flat&logo=github)](https://github.com/ikeryanez)
+[![GitHub](https://img.shields.io/badge/GitHub-ikeryc-blue?style=flat&logo=github)](https://github.com/ikeryc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ikeryc-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ikeryc)
 
 ## Sobre Mí
@@ -66,7 +66,7 @@ Dashboard interactivo para exploración y visualización de datasets complejos. 
 
 **Stack**: Python | Streamlit | Plotly | Pandas
 
-*Para ver más proyectos, visita mi [GitHub](https://github.com/ikeryanez)*
+*Para ver más proyectos, visita mi [GitHub](https://github.com/ikeryc)*
 
 ## 🎯 Intereses
 
@@ -81,7 +81,7 @@ Dashboard interactivo para exploración y visualización de datasets complejos. 
 ¿Te gustaría colaborar o tienes alguna pregunta?
 
 - **Email**: [ikeryanez@gmail.com](mailto:ikeryanez@gmail.com)
-- **GitHub**: [github.com/ikeryanez](https://github.com/ikeryanez)
+- **GitHub**: [github.com/ikeryc](https://github.com/ikeryc)
 - **LinkedIn**: [linkedin.com/in/ikeryc](https://linkedin.com/in/ikeryc)
 - **Portafolio**: [Mi Portafolio Web](https://portfolio.ikeryc.com)
 
